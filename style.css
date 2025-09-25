@@ -31,3 +31,9 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+section {
+  margin: 20px 0;
+  border: 3px solid #ddd;
+  padding: 15px;
+  box-shadow: 0 0 5px #aaa;
+}
