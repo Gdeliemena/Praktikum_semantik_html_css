@@ -21,3 +21,7 @@ nav ul li {
 nav ul li:last-child {
   border-right: none;
 }
+nav ul li a {
+  color: blue;
+  font-weight: bold;
+}
