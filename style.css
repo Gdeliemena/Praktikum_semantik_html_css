@@ -41,5 +41,10 @@ footer {
   background-color: #ddd;
   padding: 10px;
   text-align: center;
-  box-shadow: 0 0 5px #aaa;
+}
+.profile-pic {
+  display: block;
+  margin: 10px 0;
+  width: 200px;
+  height: auto;
 }
