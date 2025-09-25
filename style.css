@@ -37,3 +37,9 @@ section {
   padding: 15px;
   box-shadow: 0 0 5px #aaa;
 }
+footer {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 0 5px #aaa;
+}
