@@ -1,5 +1,6 @@
-Nama: I Gde Suwastika Pande Liemena
-Nim: 42230028
+<p><strong>Nama: I Gde Suwastika Pande Liemena</strong></p>
+<p><strong>Nim: 42230028</strong></p>
+
 ![gambar1](https://github.com/user-attachments/assets/20924b40-b33e-4656-bfe7-f152f79d761c)
 <h3>Penjelasan Bagian Deklarasi Dokumen & Head:</h3>
 <p>!DOCTYPE html → Memberitahu browser bahwa dokumen ini adalah HTML5.
