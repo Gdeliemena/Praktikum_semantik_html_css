@@ -7,3 +7,8 @@ header {
   text-align: center;
   box-shadow: 0 0 5px #aaa;
 }
+nav ul {
+  list-style-type: square;
+  padding: 10;
+  text-align: center;
+}
