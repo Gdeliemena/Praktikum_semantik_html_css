@@ -98,5 +98,5 @@ display: block → gambar jadi elemen blok, otomatis tampil di baris baru.
 margin: 10px 0 → jarak atas & bawah 10px, kiri–kanan 0.
 width: 200px → gambar diperkecil lebar 200px.
 height: auto → menjaga proporsi gambar agar tidak gepeng.</p>
-<p><strong>h2:</strong> Setiap judul <h2> diberi jarak bawah 30px agar lebih rapi dan tidak terlalu menempel dengan konten di bawahnya.</p>
+<p><strong>h2:</strong> Setiap judul h2 diberi jarak bawah 30px agar lebih rapi dan tidak terlalu menempel dengan konten di bawahnya.</p>
 
