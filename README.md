@@ -63,3 +63,39 @@ box-shadow: 0 0 5px #aaa → menambahkan bayangan halus di sekeliling header.</p
 <p><strong>nav ul:</strong>ul (unordered list) dalam nav akan pakai bullet berbentuk kotak (square).
 padding: 10 → memberi jarak dalam list.
 text-align: center → semua isi ul diratakan ke tengah.</p>
+<p><strong>nav ul li:</strong>Setiap item li diberi garis kanan (border-right).
+padding-right: 20px → jarak antara teks dan garis.
+margin-right: 10px → jarak ke item berikutnya.
+display: inline → agar li sejajar secara horizontal (bukan ke bawa</p>
+<p><strong>nav ul li:last-child:</strong>Selektor :last-child → khusus item li terakhir.
+border-right: none → menghapus garis di sebelah kanan menu terakhir, supaya tidak ada garis sisa.</p>
+<p><strong>nav ul li a:</strong>Link a di dalam li berwarna biru.
+Teks link ditebalkan (bold).</p>
+<p><strong>nav a:</strong>Semua link a dalam nav tidak ada garis bawah default.</p>
+<p><strong>nav a:hover</strong>Saat kursor diarahkan ke link di dalam nav, teks link akan bergaris bawah (efek hover).</p>
+
+![gambar10](https://github.com/user-attachments/assets/6370e80b-4ff9-4e03-980b-89cd2e9addf7)
+<h3>Penjelasan style section:</h3>
+<p>Setiap <section> diberi jarak atas–bawah (margin: 20px 0).
+Dikasih border abu-abu tebal 3px.
+padding: 15px → memberi ruang di dalam kotak section.
+box-shadow → menambahkan efek bayangan agar terlihat seperti “card” / blok konten.</p>
+
+![gambar11](https://github.com/user-attachments/assets/e1a03000-4b4d-479a-80be-30d821e9a990)
+<h3>Penjelasan style footer:</h3>
+<p><strong>footer:</strong>Footer punya background abu-abu muda.
+padding: 10px → ada ruang di dalamnya.
+text-align: center → teks rata tengah.
+box-shadow → bayangan halus seperti header.</p>
+<p><strong>footer a: </strong>Link di dalam footer tidak ada garis bawah default.</p>
+<p><strong>footer a:hover: </strong>Kalau mouse diarahkan ke link di dalam footer, link akan bergaris bawah.</p>
+
+![gambar 12](https://github.com/user-attachments/assets/9d13530d-db8c-4221-95e2-a2c69727d03f)
+<h3>Penjelasan stye profile dan setiap judul h2: </h3>
+<p><strong>.profile-pic:</strong> .profile-pic → class untuk gambar profil.
+display: block → gambar jadi elemen blok, otomatis tampil di baris baru.
+margin: 10px 0 → jarak atas & bawah 10px, kiri–kanan 0.
+width: 200px → gambar diperkecil lebar 200px.
+height: auto → menjaga proporsi gambar agar tidak gepeng.</p>
+<p><strong>h2:</strong> Setiap judul <h2> diberi jarak bawah 30px agar lebih rapi dan tidak terlalu menempel dengan konten di bawahnya.</p>
+
