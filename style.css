@@ -12,3 +12,9 @@ nav ul {
   padding: 10;
   text-align: center;
 }
+nav ul li {
+  border-right: 1px solid #000;
+  padding-right: 20px;
+  margin-right: 10px;
+  display: inline;
+}
